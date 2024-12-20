@@ -1,0 +1,42 @@
+Order ID: 1
+Date: 2024-12-12
+Location: Cairo, Heliopolis
+State: Pending
+Total Price: 320.0 EGP
+Items:
+- BBQ Chicken Pizza (Main Meal) - 160.0 EGP x2
+Order ID: 2
+Date: 2024-12-13
+Location: Giza, Mohandessin
+State: Pending
+Total Price: 1920.0 EGP
+Items:
+- Classic Pepperoni (Main Meal) - 160.0 EGP x12
+Order ID: 3
+Date: 2024-12-14
+Location: Giza, Mohandessin
+State: Pending
+Total Price: 800.0 EGP
+Items:
+- Truffle Mushroom Pizza (Main Meal) - 220.0 EGP x2- Four-Cheese Pizza (Main Meal) - 180.0 EGP x2
+Order ID: 3
+Date: 2024-12-14
+Location: Giza, Mohandessin
+State: Pending
+Total Price: 440.0 EGP
+Items:
+- Truffle Mushroom Pizza (Main Meal) - 220.0 EGP x2
+Order ID: 3
+Date: 2024-12-14
+Location: Giza, Mohandessin
+State: Pending
+Total Price: 800.0 EGP
+Items:
+- Truffle Mushroom Pizza (Main Meal) - 220.0 EGP x2- Four-Cheese Pizza (Main Meal) - 180.0 EGP x2
+Order ID: 3
+Date: 2024-12-14
+Location: Giza, Mohandessin
+State: Pending
+Total Price: 580.0 EGP
+Items:
+- Truffle Mushroom Pizza (Main Meal) - 220.0 EGP x1- Four-Cheese Pizza (Main Meal) - 180.0 EGP x2
